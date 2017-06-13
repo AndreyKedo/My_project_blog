@@ -1,0 +1,17 @@
+@font-face {
+  font-family: Arimo Regular;
+  src: url(../font/Arimo/Arimo-Regular.ttf); }
+@font-face {
+  font-family: Lobster Regular;
+  src: url(../font/Lobster/Lobster-Regular.ttf); }
+@font-face {
+  font-family: RobotoSlab Regular;
+  src: url(../font/Roboto_Slab/RobotoSlab-Regular.ttf); }
+@font-face {
+  font-family: RobotoSlab Light;
+  src: url(../font/Roboto_Slab/RobotoSlab-Light.ttf); }
+@font-face {
+  font-family: RobotoSlab Thin;
+  src: url(../font/Roboto_Slab/RobotoSlab-Thin.ttf); }
+
+/*# sourceMappingURL=font.css.map */
